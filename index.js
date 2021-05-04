@@ -1,1 +1,1 @@
-let divide = (a,b) => a/b; 
+let divide = (2000,100) => 2000/100; 
