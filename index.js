@@ -1,2 +1,3 @@
-let divide = (a,b) => a/b;
-divide(2000/100);
+let divide = () => 2000/100;
+let square =  a => a**2;
+let add = (a,b) => a+b;
